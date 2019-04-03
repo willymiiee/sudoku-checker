@@ -1,0 +1,12 @@
+{
+    "name": "sudoku-checker",
+    "version": "1.0.0",
+    "description": "Sudoku checker app built using node.js",
+    "author": "willymiiee@gmail.com",
+    "license": "MIT",
+    "main": "app.js",
+    "keywords": [
+        "nodejs",
+        "sudoku"
+    ]
+}
